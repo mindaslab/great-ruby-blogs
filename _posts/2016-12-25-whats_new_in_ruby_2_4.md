@@ -185,6 +185,7 @@ Pathname.new('file-or-dir').empty? #=> true
 {% endhighlight %}
 
 ## Language features
+
 ### Multiple assignment in conditionals
 
 In Ruby 2.3, you would get a syntax error if you tried multiple assignment in a conditional. This has been changed to a warning instead.
